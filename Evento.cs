@@ -58,7 +58,7 @@ class Evento
         set { horario = value; }
     }
 
-    private int maxIngressos;
+    private int maxIngressos = 0;
     public int MaxIngressos
     {
         get { return maxIngressos; }
@@ -100,6 +100,6 @@ class Evento
 
     public void VerIngressosDisponíveis()
     {
-        
+
     }
 }

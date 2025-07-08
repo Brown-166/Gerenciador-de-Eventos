@@ -1,0 +1,10 @@
+[
+  {
+    "Dinheiro": 2000,
+    "CPF": "10987654321",
+    "Nome": "Davi",
+    "Sobrenome": "Araujo",
+    "Email": "davi@gmail.com",
+    "Senha": "senha456"
+  }
+]

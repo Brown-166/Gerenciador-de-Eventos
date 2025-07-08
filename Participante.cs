@@ -22,7 +22,7 @@ class Participante : Usuario
 
     }
 
-    public Participante(string cpf, string nome, string sobrenome, string email, float dinheiro) : base(cpf, nome, sobrenome, email)
+    public Participante(string cpf, string nome, string sobrenome, string email, string senha, float dinheiro) : base(cpf, nome, sobrenome, email, senha)
     {
         this.Dinheiro = dinheiro;
     }

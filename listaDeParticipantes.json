@@ -1,0 +1,18 @@
+[
+  {
+    "Dinheiro": 4000,
+    "CPF": "12345678910",
+    "Nome": "Pedro",
+    "Sobrenome": "Brown",
+    "Email": "pedro@gmail.com",
+    "Senha": "senha123"
+  },
+  {
+    "Dinheiro": 8000,
+    "CPF": "74185296380",
+    "Nome": "Pablo",
+    "Sobrenome": "Dias",
+    "Email": "pablo@gmail.com",
+    "Senha": "senha963"
+  }
+]
